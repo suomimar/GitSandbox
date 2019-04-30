@@ -1,3 +1,4 @@
 Testing Git
+Feature 1 change
 Some changes to master
 Edit the way you want
